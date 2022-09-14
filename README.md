@@ -1,4 +1,4 @@
-This is a simple Laravel APP (Appointments System).
+This is a simple Laravel APP (Appointments System) for job task.
 <hr>
 <img src="https://i.imgur.com/g4qYK2q.png"/>
 <img src="https://i.imgur.com/NT9plOp.png"/>
